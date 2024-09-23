@@ -7,9 +7,8 @@ require (
 	github.com/BurntSushi/toml v1.4.0
 	github.com/caarlos0/env/v11 v11.2.2
 	github.com/casdoor/casdoor-go-sdk v0.50.0
-	github.com/chromedp/cdproto v0.0.0-20240810084448-b931b754e476
 	github.com/creack/pty v1.1.23
-	github.com/dgraph-io/ristretto v0.1.1
+	github.com/dgraph-io/ristretto v1.0.0
 	github.com/dustin/go-humanize v1.0.1
 	github.com/fatih/color v1.17.0
 	github.com/gin-contrib/static v1.1.2
@@ -102,7 +101,6 @@ require (
 	github.com/bytedance/sonic/loader v0.2.0 // indirect
 	github.com/cenkalti/backoff/v4 v4.3.0 // indirect
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
-	github.com/chromedp/sysutil v1.0.0 // indirect
 	github.com/civo/civogo v0.3.77 // indirect
 	github.com/cloudflare/cloudflare-go v0.104.0 // indirect
 	github.com/cloudwego/base64x v0.1.4 // indirect
@@ -137,7 +135,6 @@ require (
 	github.com/gofrs/uuid v4.4.0+incompatible // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang-jwt/jwt/v5 v5.2.1 // indirect
-	github.com/golang/glog v1.2.2 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/golang/snappy v0.0.4 // indirect
 	github.com/gomarkdown/markdown v0.0.0-20240730141124-034f12af3bf6 // indirect
